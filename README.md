@@ -10,10 +10,17 @@ QueryPie는 보안의 사각지대를 투명하게 공개하고, 이를 함께 �
 여러분의 적극적인 참여와 관심을 부탁드립니다.
 
 # Releases 
-- Harbor v1.0.0
-- IDEs v1.0.0
-- Jenkins v1.0.0
-- Nexus v1.0.0
-- Okta v1.0.0
-- QueryPie v1.0.0
-- Scalr v1.0.0
+- [Harbor](https://github.com/querypie/audit-points/tree/main/Harbor) v1.0.0
+- [IDEs](https://github.com/querypie/audit-points/tree/main/IDEs) v1.0.0
+- [Jenkins](https://github.com/querypie/audit-points/tree/main/Jenkins) v1.0.0
+- [Nexus](https://github.com/querypie/audit-points/tree/main/Nexus) v1.0.0
+- [Okta](https://github.com/querypie/audit-points/tree/main/Okta) v1.0.0
+- [QueryPie](https://github.com/querypie/audit-points/tree/main/QueryPie) v1.0.0
+- [Scalr](https://github.com/querypie/audit-points/tree/main/Scalr) v1.0.0
+
+
+# Suggestions/Ideas
+감사 포인트에 대한 추가/업데이트, 신규 제품에 대한 감사 포인트 제공 등 많은 의견, 논의 및 공유는 해당 레포지토리의 이슈를 통해 제공 부탁드립니다. 
+
+- [등록된 이슈 보기](https://github.com/querypie/audit-points/issues)  
+- [이슈 등록 바로가기](https://github.com/querypie/audit-points/issues/new) 
