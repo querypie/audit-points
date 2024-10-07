@@ -19,8 +19,13 @@ QueryPie는 보안의 사각지대를 투명하게 공개하고, 이를 함께 �
 - [Scalr](https://github.com/querypie/audit-points/tree/main/Scalr) v1.0.0
 
 
-# Suggestions/Ideas
-감사 포인트에 대한 추가/업데이트, 신규 제품에 대한 감사 포인트 제공 등 많은 의견, 논의 및 공유는 해당 레포지토리의 이슈를 통해 제공 부탁드립니다. 
+# Discussions
+감사 포인트에 대한 추가/업데이트, 신규 제품에 대한 감사 포인트 제공 등 많은 의견, 논의 및 공유는 해당 레포지토리의 [**Discussions**](https://github.com/querypie/audit-points/discussions) 탭을 활용 부탁드립니다. 
 
-- [등록된 이슈 보기](https://github.com/querypie/audit-points/issues)  
-- [이슈 등록 바로가기](https://github.com/querypie/audit-points/issues/new) 
+- [Audit Points 공지 확인하기](https://github.com/querypie/audit-points/discussions/categories/announcements)  
+
+- [관련 일반 의견 게시하기](https://github.com/querypie/audit-points/discussions/categories/general)
+
+- [아이디어 제시하기](https://github.com/querypie/audit-points/discussions/categories/ideas) 
+
+- [내가 만든 것 함께 자랑 및 공유하기](https://github.com/querypie/audit-points/discussions/categories/show-and-tell)
