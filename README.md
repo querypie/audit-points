@@ -7,7 +7,8 @@ QueryPie는 보안의 사각지대를 투명하게 공개하고, 이를 함께 �
 
 이에 QueryPie에서는 더 많은 제품의 감사 포인트를 공개하고, 쉽게 열람하고, 최신 정보를 추적할 수 있는 공유의 장을 이곳에 마련하였습니다.  
 앞으로 이곳에서 다양한 사이버 보안 지식이 자유롭게 공유되고 활발히 토론될 수 있는 공간이 되기를 바랍니다.  
-여러분의 적극적인 참여와 관심을 부탁드립니다.
+여러분의 적극적인 참여와 관심을 부탁드립니다.  
+[www.QueryPie.com](https://www.querypie.com)
 
 # Releases 
 - [Harbor](https://github.com/querypie/audit-points/tree/main/Harbor) v1.0.0
